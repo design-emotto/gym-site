@@ -111,7 +111,7 @@ img {
       rgba(8, 8, 8, 0.62) 38%,
       rgba(8, 8, 8, 0.78) 100%
     ),
-    url("https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=2200&q=80");
+    url("images/gym_background.png");
   background-size: cover;
   background-position: center 28%;
   background-repeat: no-repeat;
